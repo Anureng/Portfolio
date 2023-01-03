@@ -10,7 +10,7 @@ function Header() {
                 <div className=' flex flex-col items-center mt-8 justify-center p-2'>
                     <img className='animate-bounce h-64  cursor-pointer mt-8 ' src="person.png" alt="" />
                 </div>
-                <div className='flex flex-col text-3xl px-2  max-w-lg space-y-8'>
+                <div className='flex flex-col text-white text-3xl px-2  max-w-lg space-y-8'>
                     <p className='text-3xl mt-3'>Hello, Myself Anurag Sidhu</p>
                     <div className='flex'>
 

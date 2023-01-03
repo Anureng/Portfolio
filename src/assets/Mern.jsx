@@ -12,7 +12,7 @@ function Mern() {
                     <img src="/Workout/workoutFirst.png" alt="" className='h-76  w-96 sm:max-w-sm p-2' />
                 </div>
                 <div className='flex flex-col space-y-4  text-2xl'>
-                    <p>  This project is MERN based project and workout data add to add to backend. The added
+                    <p className='text-white'>  This project is MERN based project and workout data add to add to backend. The added
                         workout will be fetched from backend and displayed the data on frontend.</p>
                     <a href="https://workouts-j1em.onrender.com/" target="_blank">
                         <p className='border border-black w-fit px-3 rounded-xl text-white py-2' >REVIEW</p>

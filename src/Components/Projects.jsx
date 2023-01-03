@@ -22,7 +22,7 @@ function Projects() {
             <div className='flex justify-center items-center'>
                 <h1 className='text-xl font-bold mt-8'>PROJECTS</h1>
             </div>
-            <div className=' flex flex-wrap justify-around font-bold  items-center space-y-8 '>
+            <div className='  flex flex-wrap justify-around font-bold  items-center space-y-8 '>
                 <div className=''>
                     <Venmo />
                 </div>
