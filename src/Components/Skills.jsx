@@ -9,7 +9,7 @@ function Skills() {
             <div className=' p-5 space-y-8 max-w-md'>
                 <h1 className='text-3xl lg:text-5xl'>SKILLS<hr /> </h1>
                 <p className=' text-xl lg:text-2xl space-y-2'>I am a web Developer and blockchain developer . I made so many project based on these skill . Interested to work as a freelancer and also looking for some internship . <br /> <br />
-                    <a className='border border-white rounded-xl px-3 py-2 text-xl'>Review my project</a>
+                    <a className='border border-white rounded-xl px-3 py-2 text-xl' href='https://drive.google.com/file/d/1W5dHs_XcXOKuIwlL5k35YewSy_P8mN-x/view?usp=share_link' download target="_blank">Download Portfolio</a>
                 </p>
             </div>
             <div>
